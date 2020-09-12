@@ -1,0 +1,12 @@
+iOS Configuration
+
+>>> open ios/Runner.xcworkspace
+>>> set signing & Capabilities in Project [Team Signin and change bundle Name]
+>>> open -a Simulator
+>>> flutter run
+
+
+Android Configuration
+
+>>> androidemulator
+>>> flutter run
